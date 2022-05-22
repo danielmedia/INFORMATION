@@ -6,9 +6,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
-<div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/798830382002733068/815887372667453470/810399151077457960.gif" width="500"/>
-</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="center"/>
+</div>
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/attachments/920412751568986122/977939836335951912/ezgif-5-9714243114.gif" width="1000"/>
 </div>
