@@ -8,3 +8,12 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="center"/>
+
+  <div align="center" font="bold">
+    
+    CPU: i7-9700F 3.00GHz 8-Core/8-Thread Processor
+    Motherboard: ASUS Prime Z390-P
+    Main Drive: Samsung SSD 870 QVO 1TB
+    Secondary Storage: WD BluE SN550 NVMe SSD x2
+    Graphics Card: MSI GeForce RTX 3070 GAMING Z TRIO
+    Operating System: Windows 10 Pro
