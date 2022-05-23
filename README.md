@@ -17,3 +17,5 @@
     Secondary Storage: WD BluE SN550 NVMe SSD x2
     Graphics Card: MSI GeForce RTX 3070 GAMING Z TRIO
     Operating System: Windows 10 Pro
+
+    
